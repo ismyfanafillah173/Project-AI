@@ -14,7 +14,7 @@ Operasi logistik memiliki peran kritis dalam menjaga kelancaran distribusi baran
 ![image](https://github.com/ismyfanafillah173/Project-AI/assets/88079312/d413bd76-16b4-4ca5-ac58-b3c70dc5602b)
 
 ## Paper
-[Optimasi Operasi Logistik di Pulau Sumatra dan Jawa dengan pendekatan Informed Search] (https://docs.google.com/document/d/17ZbYHYJAFDgbliS5ydfO4Z-zYXeJ_XTL/edit?usp=sharing&ouid=109593767876637681041&rtpof=true&sd=true)
+[Optimasi Operasi Logistik di Pulau Sumatra dan Jawa dengan pendekatan Informed Search](https://docs.google.com/document/d/17ZbYHYJAFDgbliS5ydfO4Z-zYXeJ_XTL/edit?usp=sharing&ouid=109593767876637681041&rtpof=true&sd=true) 
 
 ## Reference
 https://github.com/aimacode/aima-python
