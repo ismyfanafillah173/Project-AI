@@ -4,7 +4,7 @@ from map import map_greedy, map_astar
 
 # Get input from user
 print("================================================================================================================================")
-print("                                               ████▓▒░▓▒░⡷⠂PickNShip⠐⢾░▒▓░▒▓████                                               ")
+print("                                               ████▓▒░▓▒░⡷⠂pickNship⠐⢾░▒▓░▒▓████                                               ")
 print("================================================================================================================================")
 print("Welcome to the freightage service!")
 print("Please enter the following information:")
@@ -18,7 +18,7 @@ print("generate....")
 problem_greedy = GraphProblem(start_location, end_location, map_greedy)
 route_greedy = [node.state for node in best_first_graph_search(problem_greedy, lambda node: node.path_cost).path()]
 
-# Find the shortest route using A* algorithm
+# Find the shortest route using A* and greedy algorithm
 problem_astar = GraphProblem(start_location, end_location, map_astar)
 route_astar = [node.state for node in astar_search(problem_astar).path()]
 
