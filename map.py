@@ -1,4 +1,4 @@
-from search import UndirectedGraph, GraphProblem, best_first_graph_search, astar_search
+from search import UndirectedGraph
 
 # Define the map and its locations
 map_greedy = UndirectedGraph(dict(
