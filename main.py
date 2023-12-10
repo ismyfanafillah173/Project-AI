@@ -4,7 +4,7 @@ from map import map_greedy, map_astar
 
 # Get input from user
 print("================================================================================================================================")
-print("                                               ████▓▒░▓▒░⡷⠂pickNship⠐⢾░▒▓░▒▓████                                               ")
+print("                                               ████▓▒░▓▒░⡷⠂PickNShip⠐⢾░▒▓░▒▓████                                               ")
 print("================================================================================================================================")
 print("Welcome to the freightage service!")
 print("Please enter the following information:")
